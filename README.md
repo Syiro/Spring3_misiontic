@@ -5,4 +5,6 @@ En este ciclo se dara continuacion al proyecto Consultorio medico.
 Con integrantes:
 Ruben Fernandez 
 Giovanny rodriguez 
- 
+Brebda Ximena rios
+juancarlos rubiano
+juan pablo mensienta 
